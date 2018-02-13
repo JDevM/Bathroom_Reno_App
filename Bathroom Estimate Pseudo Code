@@ -1,0 +1,26 @@
+Bathroom Estimate App Pseudo Code / Notes
+
+HTML
+-Go through and build divs for each section
+-Display headers in Section Div 
+-Make a subdiv for each header section that can be hidded in jquery
+make dropdown or checkbox menus where needed
+
+CSS
+size and style
+
+JavaScript
+-Build functionality for recieving user input
+-Build functionality for computing data
+  -Build math cents rounder limit($00000000000000.00) 2 decimals (round up)
+
+jQuery
+-Hide perameters on blur
+-Show perameters on focus/click
+
+DataBase
+-Settup test to see if it works
+-Build functionality for sending data too and from firebase
+-Allow for new objects to be created and altered in firebase 
+and display information on a log page
+

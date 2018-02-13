@@ -1,0 +1,46 @@
+body {
+    font-size: .6em;
+}
+
+div#wrapper {
+    /*margin: 0 auto;*/
+    width: 80%;
+    
+}
+
+div#Permits,
+div#Demo,
+div#Reconstruction,
+div#Cabinetry,
+div#Tops,
+div#Sink_Bowls,
+div#Tile,
+div#Glass_Shower_Enclosures,
+div#Plumbing,
+div#Electrical,
+div#HVAC,
+div#Custom_Trimwork,
+div#Custom_Mirrors,
+div#Painting {
+    display: block;
+    text-align: left;
+    /*margin: 0 auto;*/
+}
+
+div#Permits h3,
+div#Demo h3,
+div#Reconstruction h3,
+div#Cabinetry h3,
+div#Tops h3,
+div#Sink_Bowls h3,
+div#Tile h3,
+div#Glass_Shower_Enclosures h3,
+div#Plumbing h3,
+div#Electrical h3,
+div#HVAC h3,
+div#Custom_Trimwork h3,
+div#Custom_Mirrors h3,
+div#Painting h3{
+    display: inline-block;
+}
+
